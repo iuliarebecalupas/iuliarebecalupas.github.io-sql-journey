@@ -1,5 +1,5 @@
 ---
-title: Home
+title: My SQL Journey
 layout: home
 ---
 
