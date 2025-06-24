@@ -1,7 +1,7 @@
 ---
 title: My SQL Journey
 layout: home
-nav order: 1
+nav_order: 1
 ---
 
 # Welcome to My SQL Learning Journey
