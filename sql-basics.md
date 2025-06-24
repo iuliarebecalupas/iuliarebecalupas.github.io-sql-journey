@@ -53,10 +53,12 @@ A database typically contains:
 - **Rows** (each row is a record)
 - **Columns** (each column is a field or attribute)
 - Relationships between data (especially in *relational databases*)
-
+  
+  *Column(field)*
+  ⬇️
 
 | Name | City | Color |
 |------|------|-------|
 | Jules | Paris | Teal |
 | Alex | Rome | Yellow |
-| James | London | Red |
+| James | London | Red |    ⬅️ *Row (record)*
