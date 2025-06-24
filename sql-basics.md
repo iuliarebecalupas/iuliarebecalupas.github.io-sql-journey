@@ -56,6 +56,7 @@ A database typically contains:
   
   *Column(field)*
   ⬇️
+  
 | Name | City | Color |
 |------|------|-------|
 | Jules | Paris | Teal |
