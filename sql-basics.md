@@ -1,6 +1,6 @@
 ---
 title: SQL Basics
-nav order: 1
+nav order: 2
 ---
 
 # SQL Basics
