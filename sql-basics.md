@@ -56,26 +56,55 @@ A database typically contains:
   
   *Column(field)*
   ⬇️
-
-<div style="display: flex; align-items: flex-start; gap: 16px;">
-  <div>
-  
-| Name  | City   | Color  |
-|-------|--------|--------|
-| Jules | Paris  | Teal   |
-| Alex  | Rome   | Yellow |
-| James | London | Red    |
-
-  </div>
-  <div>
-    ⬅️ <em>Row (record)</em>
-  </div>
-</div>
-
----
-
 | Name | City | Color |
 |------|------|-------|
 | Jules | Paris | Teal |
 | Alex | Rome | Yellow |
 | James | London | Red |    ⬅️ *Row (record)*
+
+---
+
+## What is a DBMS?
+
+**DBMS** stands for **Database Management System**.  
+It’s the software used to create, manage, and interact with databases.
+
+Some common DBMS examples include:
+
+- **MySQL**
+- **PostgreSQL**
+- **Microsoft SQL Server**
+- **SQLite**
+- **Oracle Database**
+
+When you write SQL code, the DBMS is the tool that processes your commands and interacts with the actual data.
+
+---
+
+## What is a Schema?
+
+A **schema** is the **structure or blueprint** of a database.  
+It defines:
+
+- What tables exist
+- What columns are in each table
+- The data types (e.g. text, numbers, dates)
+- Relationships between tables (like foreign keys)
+
+You can think of it as the **map or plan** of your database.
+
+---
+
+## Summary
+
+| Term | Meaning |
+|------|---------|
+| SQL | Language used to interact with relational databases |
+| Database | A collection of organized data |
+| DBMS | Software that manages databases and runs SQL commands |
+| Schema | The structure or design of a database |
+
+---
+
+✅ Next Steps:  
+In the next chapters, we’ll start writing real SQL queries and explore concepts like `SELECT`, `FROM`, `WHERE`, and more.
