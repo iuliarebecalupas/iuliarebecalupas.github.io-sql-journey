@@ -14,7 +14,7 @@ SQL is used to either:
 1. **Define the structure of the database** (DDL – Data Definition Language)
 2. **Manipulate the data inside the database** (DML – Data Manipulation Language)
 
-### 🔧 DDL (Data Definition Language)
+###  DDL (Data Definition Language)
 DDL statements define or modify the structure of a database — such as creating or altering tables.
 
 Examples:
