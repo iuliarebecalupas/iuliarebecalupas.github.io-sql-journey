@@ -1,6 +1,6 @@
 ---
-title: SQL Statements: DML, DDL, and Query Structure
-nav order: 4
+title: SQL Query Essentials
+nav order: 3
 ---
 
 # SQL Query Essentials
