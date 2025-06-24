@@ -2,6 +2,9 @@ title: Learning SQL
 description: My journey learning SQL, documented with Just the Docs.
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-remote-theme
+
 url: https://iuliarebecalupas.github.io/sql-journey
 
 aux_links:
