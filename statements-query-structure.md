@@ -3,7 +3,7 @@ title: 2. Understanding SQL Statements, DML, DDL, and Query Structure
 nav_order: 3
 ---
 
-## Understanding SQL Statements: DML, DDL, and Query Structure
+## Understanding SQL Statements, DML, DDL, and Query Structure
 
 Now that we understand what SQL is and why we use it, let's break down the two major roles SQL plays — and how statements are built.
 
