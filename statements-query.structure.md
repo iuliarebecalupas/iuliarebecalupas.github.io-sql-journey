@@ -1,5 +1,5 @@
 ---
-title: SQL Statements: DML, DDL, and Query Structure
+title: Understanding SQL Statements: DML, DDL, and Query Structure
 nav_order: 3
 ---
 
