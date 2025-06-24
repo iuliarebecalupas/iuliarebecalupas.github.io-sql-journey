@@ -57,6 +57,23 @@ A database typically contains:
   *Column(field)*
   ⬇️
 
+<div style="display: flex; align-items: flex-start; gap: 16px;">
+  <div>
+  
+| Name  | City   | Color  |
+|-------|--------|--------|
+| Jules | Paris  | Teal   |
+| Alex  | Rome   | Yellow |
+| James | London | Red    |
+
+  </div>
+  <div>
+    ⬅️ <em>Row (record)</em>
+  </div>
+</div>
+
+---
+
 | Name | City | Color |
 |------|------|-------|
 | Jules | Paris | Teal |
