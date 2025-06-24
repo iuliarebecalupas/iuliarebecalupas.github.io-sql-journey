@@ -17,7 +17,7 @@ It is the standard language used to **communicate with relational databases**.
 With SQL, you can:
 
 - Retrieve data from a database
-- Insert new data
+- Insert new data or remove existing data
 - Update or delete existing data
 - Create or change the structure of database objects (like tables)
 
@@ -29,7 +29,7 @@ Humans and computers don’t speak the same language.
 
 When we ask questions like:
 
-> “Can you show me all customers who placed an order in the last week?”
+> _“Can you show me all customers who placed an order in the last week?”_
 
 ...a human understands this easily. But a machine doesn’t.
 
@@ -40,3 +40,23 @@ This is where **SQL** comes in.
 SQL gives us a way to **translate our questions into a format** the database can understand.
 
 ---
+
+## What is a Database?
+
+A **database** is a **collection of organized data** that can be easily accessed, managed, and updated.
+
+Imagine an Excel file with multiple sheets, rows, and columns — a database is like that, but more powerful and designed for large-scale, structured data.
+
+A database typically contains:
+
+- **Tables** (like spreadsheets)
+- **Rows** (each row is a record)
+- **Columns** (each column is a field or attribute)
+- Relationships between data (especially in *relational databases*)
+
+
+| Name | City | Color |
+|------|------|-------|
+| Jules | Paris | Teal |
+| Alex | Rome | Yellow |
+| James | London | Red |
