@@ -1,5 +1,5 @@
 ---
-title: 4. Data Types
+title: 3. Data Types
 nav_order: 4
 ---
 

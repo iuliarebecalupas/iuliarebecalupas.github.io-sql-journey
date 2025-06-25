@@ -1,5 +1,5 @@
 ---
-title: 3. SQL Query Essentials
+title: 4. SQL Query Essentials
 nav_order: 5
 ---
 
