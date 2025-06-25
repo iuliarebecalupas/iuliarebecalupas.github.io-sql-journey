@@ -28,7 +28,7 @@ Why Data Types Matter
 | CHAR(n) | Fixed-length text - The _n_ parameter specifies the column length in characters  - can be from 0 to 255. Default is 1|
 | VARCHAR(n) | Variable-length text	-  (can contain letters, numbers, and special characters). The size parameter specifies the maximum string length in characters - can be from 0 to 65535|
 | CHARACTER(n) | Same as CHAR | 
-| CHARACTER VARYING(n) | Same as VARCHAR | |
+| CHARACTER VARYING(n) | Same as VARCHAR |
 
 - ### Binary
 
