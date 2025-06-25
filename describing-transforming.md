@@ -23,6 +23,7 @@ nav_order: 7
 | **SUBSTR()** or **SUBSTRING()** | Extracts part of a string. | Get first 3 characters of a name: ``` SELECT SUBSTR('Jonathan', 1, 3) AS short_name; ``` -> Output: Jon | 
 | **REPLACE()** | Replaces part of a string with something else. | ``` SELECT REPLACE ('Jules', 'e', 'y') FROM students; ``` -> Output: Julys
 | **CAST()** | Tells the data base to interpret one data type as another | ``` SELECT age FROM students ORDER BY CAST (age AS CHAR); ``` |
+
 ---
 ### Creating Aliases with **AS**
 
