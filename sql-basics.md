@@ -1,5 +1,5 @@
 ---
-title: 1. SQL Basics
+title: SQL Basics
 nav_order: 2
 ---
 

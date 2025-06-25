@@ -1,5 +1,5 @@
 ---
-title: 5. Calculations and Aggregate Functions
+title: Calculations and Aggregate Functions
 nav_order: 6
 ---
 
