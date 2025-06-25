@@ -1,6 +1,6 @@
 ---
 title: 3. SQL Query Essentials
-nav_order: 4
+nav_order: 5
 ---
 
 # SQL Query Essentials
